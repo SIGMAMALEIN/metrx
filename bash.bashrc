@@ -5,7 +5,7 @@ PS1='\[\e[31m\]┌─[\[\e[37m\]\T\[\e[31m\]]─────\e[1;93m[root]\e[0;3
 clear
 mpv /$HOME/metrx/terminal[1].mp3
 clear
-echo -e "Created By \e[5 SAMIR SIDDIQUI"
+echo -e "Created By \e[5S SAMIR SIDDIQUI"
 echo "----------------------------" | lolcat
 
 echo "
